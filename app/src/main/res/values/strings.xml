@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Motichoor Ka Laddu</string>
+    <string name="notif_channel_name">Assistant Listening</string>
+    <string name="notif_listening">Motichoor Ka Laddu is listening…</string>
+</resources>
